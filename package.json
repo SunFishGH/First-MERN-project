@@ -31,7 +31,8 @@
     "express-validator": "^6.12.2",
     "jsonwebtoken": "^8.5.1",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^6.0.9"
+    "mongoose": "^6.0.9",
+    "npm-check-updates": "^11.8.5"
   },
   "devDependencies": {
     "concurrently": "^6.3.0",
